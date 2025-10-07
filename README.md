@@ -12,3 +12,5 @@ Este é um projeto de calculadora em Python com automação via Shell Script.
 
 Execute o script:
    ./calculadora.sh
+
+## Scripts de comandos usados na calculadora
