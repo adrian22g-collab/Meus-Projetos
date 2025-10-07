@@ -1,6 +1,0 @@
-#!/bin/bash
-
-#um dos unicos comandos mostrados nas aulas sao o (echo e os do ubuntu )nao tem muito mais para criar um comado sh
-
-echo ('Bem vindo a calculadora')
-
